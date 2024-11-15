@@ -24,3 +24,16 @@
 - H: 8h - 16h
 - Location: Universidade Joaquim Chissano - Zimpeto
 - Short Description: No terceiro e último evento presencial, aprofundaremos ainda mais nas aplicações práticas do Machine Learning. Os participantes terão a oportunidade de aplicar seus conhecimentos adquiridos até agora em um projeto mais desafiador. Além disso, discutiremos os próximos passos para aprimoramento contínuo e avanço na jornada do Machine Learning. Ao final do evento, os participantes receberão certificados de participação, reconhecendo seu empenho
+
+### Material de apoio 
+[https://github.com/ctivir/ML-For-Beginners](ML-For-Beginners)
+
+### Duvidas ???
+### Reach out to me on:
+<p>
+  <a href="mailto:maputo@pyladies.org"><img src="https://img.shields.io/badge/send a mail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/pyladiesmaputo"><img src="https://img.icons8.com/color/50/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.linkedin.com/in/pyladiesmaputo"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>  
+  <a href="https://www.instagram.com/pyladiesmaputo"><img src="https://img.icons8.com/color/50/000000/instagram.png" alt="instagram"/></a>
+  <a href="https://www.meetup.com/mpt-pyladies"><img src="https://img.icons8.com/color/50/000000/meetup.png" alt="instagram"/></a>
+<p> 
